@@ -1,0 +1,6 @@
+We are given a array of integers and a TARGRT of integer.
+Goal: To return the indices of the two elements who's sum up (addition) produces the equvalent value of the TARGET
+Example:
+array = [10,20,30,40,50]
+target = 90
+Expected output : [4,5]
